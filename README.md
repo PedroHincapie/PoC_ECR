@@ -8,3 +8,4 @@ La instalación de CLI de AWS, que nos permitirá interactuar desde una consola 
 
 Para este sección de Login, próximamente tendremos un repo con esta guia, por el momento en necesario ya tener login con AWS desde la consola.
 
+Les comparto una guia sencilla para ECS https://medium.com/@ariklevliber/aws-fargate-from-start-to-finish-for-a-nodejs-app-9a0e5fbf6361
